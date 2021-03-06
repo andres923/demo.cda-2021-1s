@@ -3,7 +3,7 @@ Version prueba repo
 
 Linea 1
 
-Liena 2
+Linea 2
 
 Linea 3
 
