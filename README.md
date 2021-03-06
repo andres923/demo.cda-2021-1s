@@ -11,12 +11,4 @@ Linea 4
 
 Linea 5
 
-<<<<<<< Updated upstream
 Linea 6
-=======
-<<<<<<< HEAD
-Linea 6
-=======
-Linea 6
->>>>>>> 475ef190004a4aff7bcbe170798aabf685960278
->>>>>>> Stashed changes
